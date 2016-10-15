@@ -3,3 +3,7 @@
 bliss_hammerhead-userdebug
 bliss_shamu-userdebug
 bliss_bullhead-userdebug
+# Unofficial devices
+bliss_lt01wifi-userdebug
+bliss_lt013g-userdebug
+bliss_lt01lte-userdebug
